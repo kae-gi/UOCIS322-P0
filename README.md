@@ -1,3 +1,5 @@
+*new README file in hello folder
+
 # Project 0 - Hello
 -------------
 
